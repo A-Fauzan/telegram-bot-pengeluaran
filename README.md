@@ -10,8 +10,6 @@
 
 ## 🌐 Demo
 
-**Web App:** `https://a-fauzan.github.io/Dompet/`
-
 ---
 
 ## ✨ Fitur
